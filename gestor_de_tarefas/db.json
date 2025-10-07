@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": 2,
+      "nome": "Estudas JS",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "nome": "Estudar react",
+      "checked": true
+    }
+  ]
+}
